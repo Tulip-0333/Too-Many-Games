@@ -38,7 +38,7 @@ function getWinner(playerChoice, computerChoice) {
 
 function displayResult(winner, computerChoice) {
     if (winner === "player") {
-      result.innerHTML = `You win! ${computerChoice.charAt(0).toUpperCase() + computerChoice.slice(1)} loses to ${winner}.`;
+      result.innerHTML = `You win! ${computerChoice.charAt(0).toUpperCase() + computerChoice.slice(1)} loses against what you chose.`;
     } else if (winner === "computer") {
       result.innerHTML = `You lose! ${computerChoice.charAt(0).toUpperCase() + computerChoice.slice(1)} beats ${winner}.`;
     } else {
