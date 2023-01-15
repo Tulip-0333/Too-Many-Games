@@ -14,10 +14,13 @@ A collection of classic games coded in various programming languages.
 4. Run the game of your choice
 
 ## Games Included
-- WIP right now, check back later to see this part!
+- Number Guessing Game ("HTML, CSS, JS", Python)
+- Tic-Tac-Toe ("HTML, CSS, JS")
+- Rock Paper Scissors ("HELLO, CSS, JS")
 
 ## Languages Used
-- WIP right now, check back later to see this part!
+- HTML, CSS, JS
+- Python
 
 ## Authors
 - [Tulip](https://github.com/Tulip-0333)
