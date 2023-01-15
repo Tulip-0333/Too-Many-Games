@@ -1,0 +1,27 @@
+#game {
+  text-align: center;
+}
+
+.choices {
+  display: flex;
+  justify-content: space-around;
+}
+
+.choice {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+.choice img {
+  width: 200px;
+  height: 200px;
+}
+
+#result {
+  margin-top: 120px;
+}
+
+body {
+  font-family: "Sofia", sans-serif;
+  text-shadow: 4px 4px 4px #a1a1a1;
+}
