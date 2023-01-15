@@ -14,7 +14,9 @@ const winningCombinations = [
 
 for (let i = 0; i < squares.length; i++) {
   squares[i].addEventListener('click', function(e) {
-    e.target.innerHTML = currentPlayer;
+    if(e.target.innerHTML === "") {
+      e.target.innerHTML = currentPlayer;
+    }
     
     // Check for a win or draw after each move
     if (checkForWin()) {
