@@ -14,18 +14,10 @@ A collection of classic games coded in various programming languages.
 4. Run the game of your choice
 
 ## Games Included
-- Tic-tac-toe
-- Snake
-- Pong
-- Tetris
-- etc.
+- WIP right now, check back later to see this part!
 
 ## Languages Used
-- Python
-- Java
-- JavaScript
-- C++
-- etc.
+- WIP right now, check back later to see this part!
 
 ## Authors
 - [Tulip](https://github.com/Tulip-0333)
